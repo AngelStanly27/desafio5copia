@@ -1,0 +1,124 @@
+body{
+    background-color: #E11364;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+h1{ font-family: "Lato", sans-serif;  
+    background-color: #BC105C;
+    text-align: center;
+    font-size: 150%;
+    font-weight: 900;
+    color: #FFFFFF;
+    border-left: 7px solid; color:#FFFFFF;
+    border-right: 7px solid; color:#FFFFFF;
+    padding-bottom: 20px;
+    padding-top: 20px;  
+}
+
+main{
+    background-color: #BC105C;margin-top: 40px;padding-bottom: 5px;
+    border-radius: 7px;
+    
+    
+    
+
+}
+h2{ font-family: "Lato", sans-serif;  
+    color: #FFFFFF;
+    font-size: 100%;
+    font-weight: 900;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    padding-top: 50px;
+    
+}
+article{
+    background-color: #FFFFFF;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 40px;
+    margin-bottom: 80px;
+    border-radius: 7px;
+    }
+
+h3{ font-family: "Lato", sans-serif;  
+    text-align: right;
+    font-size: 90%;
+    font-weight: 900;
+    color: #9C0037;
+    margin-right: 20px;
+    margin-bottom: 1px;
+    padding-top: 40px;
+}
+hr{
+    color: #9C0037;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 1px;
+    border-style: dashed;
+}
+.mario{
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 20px;
+    display: block;
+    width: 95%;
+}
+p{  font-family: "Lato", sans-serif;  
+    margin-right: 20px;
+    margin-left: 20px;
+
+}
+.mortal{
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 20px;
+    display: block;
+    width: 95%;
+ 
+}
+
+a.enlace:link{
+    font-family: "Lato", sans-serif;
+    background: #2C8F20;
+  
+    font-size: 120%;
+    font-weight: 900;
+    justify-content: center;
+    padding: 22px;
+    margin-top: 15px;
+    border-radius: 10px;
+    text-decoration: none;
+    
+}
+a.enlace:visited{
+    color: #FFFFFF;}
+a.enlace:hover{
+   background: #E11364;
+}
+
+div{
+    text-align: center;
+    color: #FFFFFF;
+    padding: 22px;
+    margin-top: 30px;
+    border-radius: 10px;
+    
+}
+#titulo{ 
+    color: #FFFFFF;
+}
+
+footer{
+    background: #E96093;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    font-size: 100%;
+    font-weight: 900;
+    margin-top: 30px;
+    border-radius: 7px;
+}
